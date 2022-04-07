@@ -1,17 +1,19 @@
 <!DOCTYPE html>
 <html>
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="css/style.css">
+    <title>Piterski</title>
+  </head>
 
-<head>
-<title>Piterski</title>
-</head>
-
-<body>
-<h1>Piter.Ski.Tour</h1>
-<h2>Райдер любит снег</h2>
-<h2>Райдер любит природу</h2>
-<h2>Райдер любит солнце</h2>
-<h2>И другие эксклюзивные варианты</h2>
-<div>D:\Обучение\html&css\imgphoto_2022-03-24_16-09-40.jpg</div>
-</body>
-
+  <body>
+    <h1>Piter.Ski.Tour</h1>
+    <h2>Райдер любит снег</h2>
+    <h2>Райдер любит природу</h2>
+    <h2>Райдер любит солнце</h2>
+    <h2>И другие эксклюзивные варианты</h2>
+    <div class="card">
+      <img src="img/photo_2022-03-24_16-09-40.jpg" alt="PiterSki">
+    </div>
+  </body>
 </html> 
